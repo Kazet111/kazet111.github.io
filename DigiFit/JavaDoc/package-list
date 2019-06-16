@@ -1,0 +1,9 @@
+com.wat.digifit
+com.wat.digifit.adapter
+com.wat.digifit.fragments.Trainings
+com.wat.digifit.fragments.calculators
+com.wat.digifit.fragments.dialogs
+com.wat.digifit.fragments.diets
+com.wat.digifit.fragments.itemMenu
+com.wat.digifit.interfaces
+com.wat.digifit.model
